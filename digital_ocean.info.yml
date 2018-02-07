@@ -1,0 +1,7 @@
+name: Digital Ocean
+description: Sets up a service for .
+package: Development
+type: module
+core: 8.x
+#dependencies:
+#configure: entity.password_policy.collection
